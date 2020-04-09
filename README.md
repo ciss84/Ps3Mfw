@@ -1,4 +1,4 @@
-# ps3mfw-builder-0.2.1-mod
+# ps3mfw-builder-0.2.1-mod By haxxxen Update By 84Ciss
 modified version of toolboy's MFW-Builder (and original MFW-Builder 0.2.1)
 
 Changes:

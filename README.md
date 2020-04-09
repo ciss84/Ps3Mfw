@@ -1,7 +1,9 @@
 # ps3mfw-builder-0.2.1-mod
-# extract ps3keys.rar and replace all file and go 
-# ps3keys.rar not have passcode
 modified version of haxxxen MFW-Builder (and original MFW-Builder 0.2.1) By Mugiwara
+
+# use 
+extract ps3keys.rar and replace all file and go 
+ps3keys.rar not have passcode
 
 # Changes:
 

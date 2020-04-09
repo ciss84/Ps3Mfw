@@ -1,9 +1,9 @@
 # ps3mfw-builder-0.2.1-mod By haxxxen Update By Mugiwara
 # extract ps3keys.rar and replace all file and go 
+# ps3keys.rar not have passcode
+# modified version of toolboy's MFW-Builder (and original MFW-Builder 0.2.1)
 
-modified version of toolboy's MFW-Builder (and original MFW-Builder 0.2.1)
-
-Changes:
+# Changes:
 
 - using old routines to repack tar archive, packages and CORE_OS
 - using toolboy's new routines/tools to extract PUP, packages and flash files

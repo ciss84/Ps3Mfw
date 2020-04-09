@@ -6,7 +6,7 @@ extract ps3keys.rar and replace all file and go
 (ps3keys.rar not have passcode)
 
 # Changes:
-
+- add keys 4.85 4.86
 - using old routines to repack tar archive, packages and CORE_OS
 - using toolboy's new routines/tools to extract PUP, packages and flash files
 - using toolboy's patchtool to patch files

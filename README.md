@@ -1,5 +1,5 @@
 # ps3mfw-builder-0.2.1-mod By haxxxen Update By Mugiwara
-extract ps3keys.rar replace all file and go 
+# extract ps3keys.rar and replace all file and go 
 
 modified version of toolboy's MFW-Builder (and original MFW-Builder 0.2.1)
 

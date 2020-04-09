@@ -2,7 +2,7 @@
 modified version of haxxxen MFW-Builder (and original MFW-Builder 0.2.1) By Mugiwara
 
 # use 
-extract ps3keys.rar and replace all file and go 
+extract ps3keys.rar and replace all file and go tested on rebug 4.86.1 lite for nobd nobt and rsod
 (ps3keys.rar not have passcode)
 
 # Changes:

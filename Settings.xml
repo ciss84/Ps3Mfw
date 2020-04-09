@@ -1,0 +1,9 @@
+<Settings>
+	<Theme>default</Theme>        
+	<language>English</language>
+	<BUILD_DIR>G:/ps3/ps3mfw-builder-0.2.1-mod-master</BUILD_DIR>
+	<PS3_KEYS>G:/ps3/ps3mfw-builder-0.2.1-mod-master/ps3mfw-builder-0.2.1-mod-master/ps3keys</PS3_KEYS>	
+	<IN_FILE>F:/ps3/PS3MFW-Builder-master/REBUG_4.86.1_LITE_a2c79919cafdbb50ccb5ee9589245380_PS3UPDAT.pup</IN_FILE>	
+	<OUT_FILE>F:/ps3/PS3MFW-Builder-master/REBUG_4.86.1_LITE_PS3UPDAT.pup_4.86.pup</OUT_FILE>	    
+	<tasks> 04_broken_bluray</tasks>
+</Settings>
